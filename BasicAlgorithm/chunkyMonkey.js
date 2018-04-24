@@ -1,3 +1,5 @@
+//Completed 3/6/18
+
 function chunkArrayInGroups(arr, size) {
 
   var bunk = [];
