@@ -1,3 +1,4 @@
+//Completed 3/8/18
 
 function mutation(arr) {
   var a = arr[0].toLowerCase();
