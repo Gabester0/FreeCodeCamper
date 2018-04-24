@@ -1,3 +1,5 @@
+//Completed 3/5/18
+
 function truncateString(str, num) {
   // Clear out that junk in your trunk
   var strTrunk="";
