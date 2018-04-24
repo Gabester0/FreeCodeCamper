@@ -1,4 +1,6 @@
-Reverse a String
+//Reverse a String
+//Completed 2/26/18
+
 
 function reverseString(str) {
 //use .length to ascertain how many char are in str//x//
