@@ -1,3 +1,4 @@
+// Completed 3/10/18
 
 function destroyer(arr) {
   // Remove all the values
