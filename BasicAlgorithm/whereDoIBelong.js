@@ -1,4 +1,4 @@
-
+//Completed 3/10/18
 
 function getIndexToIns(arr, num) {
   // Find my place in this sorted array.
