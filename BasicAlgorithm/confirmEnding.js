@@ -1,3 +1,5 @@
+//Completed 3/3/18
+
 function confirmEnding(str, target) {
   // "Never give up and good luck will find you."
   // -- Falcor
