@@ -1,4 +1,4 @@
-
+//Completed 3/4/18
 function repeatStringNumTimes(str, num) {
   // repeat after me
   var Willi = [];
