@@ -1,3 +1,4 @@
+//Completed 2/28/18
 
 function findLongestWord(str) {
   var arr = [];
