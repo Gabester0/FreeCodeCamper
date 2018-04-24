@@ -1,3 +1,4 @@
+//Completed 3/1/18
 
 function titleCase(str) {
 
