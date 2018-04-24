@@ -1,4 +1,4 @@
-
+//Completed 3/9/18
 
 function bouncer(arr) {
  var arr2 = arr.filter(Boolean);
